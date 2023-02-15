@@ -2,4 +2,4 @@
 Desafio React.JS
 
 
-https://raw.githubusercontent.com/rocketseat-solutions/ignite-todo-app/main/.github/app-preview.gif
+![app-preview](https://user-images.githubusercontent.com/48845273/219043254-c12511d4-43aa-4108-a5a0-fceae7106330.gif)
